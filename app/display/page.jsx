@@ -29,7 +29,7 @@ const router=useRouter();
 
   return (
     <>
-      <Header />   
+      <Header />    
       <div>
 
       <Suspense fallback={<Loading/>} >
