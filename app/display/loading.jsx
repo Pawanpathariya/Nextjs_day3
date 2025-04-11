@@ -1,6 +1,9 @@
 "use client"
 export default function Loading() {
-console.log('loading');
-    return 'Loading...........';
+return (
+<>
+<h1>loading</h1>
+</>
+)
   }
   
